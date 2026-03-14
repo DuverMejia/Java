@@ -21,6 +21,5 @@ public class DatosEmpleados {
         System.out.println("sueldo = " + sueldo);
         System.out.println("confianza = " + confianza);
 
-
     }
 }
